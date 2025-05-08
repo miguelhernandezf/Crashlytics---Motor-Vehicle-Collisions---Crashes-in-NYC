@@ -29,9 +29,13 @@ Conducted simple data wrangling and data cleaning:
 - Produced a 4-Tabs dashboard using Power BI
   
 ![Visual1](https://github.com/user-attachments/assets/ff9909f2-ad82-43e4-9bb5-68e44dccac24)
+---
 ![Visual2](https://github.com/user-attachments/assets/4c68f823-e64d-413b-8cce-1a5613b2d675)
+---
 ![Visual3](https://github.com/user-attachments/assets/ed248925-d765-434b-8a69-d8d5202ee206)
+---
 ![Visual4](https://github.com/user-attachments/assets/a87240d8-5159-4f19-8e49-56ee60356d94)
+---
 
 
 
