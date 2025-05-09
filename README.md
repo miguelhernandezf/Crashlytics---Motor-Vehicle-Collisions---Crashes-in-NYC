@@ -28,13 +28,13 @@ Conducted simple data wrangling and data cleaning:
 
 - Produced a 4-Tabs dashboard using Power BI
   
-![Visual1](https://github.com/user-attachments/assets/ff9909f2-ad82-43e4-9bb5-68e44dccac24)
+![Visual1](https://github.com/user-attachments/assets/098cb444-0e96-413d-9d76-7bb4f5b11ae4)
 ---
-![Visual2](https://github.com/user-attachments/assets/4c68f823-e64d-413b-8cce-1a5613b2d675)
+![Visual2](https://github.com/user-attachments/assets/23ffee15-09e0-4ad7-83f6-b983a0783986)
 ---
-![Visual3](https://github.com/user-attachments/assets/ed248925-d765-434b-8a69-d8d5202ee206)
+![Visual3](https://github.com/user-attachments/assets/6a8ccdd0-0621-4562-9775-83e8d42da898)
 ---
-![Visual4](https://github.com/user-attachments/assets/a87240d8-5159-4f19-8e49-56ee60356d94)
+![Visual4](https://github.com/user-attachments/assets/ca7972b2-dceb-426a-ba06-cae7d0ef5161)
 ---
 
 
